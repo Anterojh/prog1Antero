@@ -17,16 +17,8 @@ public class Test1 {
 		boolean logik = true;
 		
 		if (logik == true )
-			20
-			10
-			6
-			
-	
-		
-		
-		
 		
 		System.out.print(ettTecken + mening); 
 	}
-
+//jwer
 }
